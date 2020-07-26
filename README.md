@@ -1,6 +1,6 @@
 # Trump-Tweets-analysis-Using-Spark-and-Python
 From an history of all Donald trump tweets since 01/01/2015 in the form of a text file, i'll make a Text analysis using Apache Spark on Python
-
+<img src="https://github.com/Steve-Chemi/Trump-Tweets-analysis-Using-Spark-and-Python/blob/master/Trump_Tweets.png">
 
 **Context:** I have an history of all Donald trump tweets since 01/01/2015 in the form of a text file.
 * Each line of this text file is in the form: text_of_the_tweet,date_of_the_tweet
