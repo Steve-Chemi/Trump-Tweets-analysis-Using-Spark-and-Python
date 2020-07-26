@@ -1,6 +1,5 @@
 # Trump-Tweets-analysis-Using-Spark-and-Python
 From an history of all Donald trump tweets since 01/01/2015 in the form of a text file, i'll make a Text analysis using Apache Spark on Python
-<img src="https://github.com/Steve-Chemi/Trump-Tweets-analysis-Using-Spark-and-Python/blob/master/Trump_Tweets.png">
 
 **Context:** I have an history of all Donald trump tweets since 01/01/2015 in the form of a text file.
 * Each line of this text file is in the form: text_of_the_tweet,date_of_the_tweet
@@ -17,3 +16,5 @@ I will for instance search for:
 * **Top references (@) cited- …**
 I will explore these points over the time (per month or per year for instance), and make a differentiation between original tweets and retweets (RT).
 My final jupyter notebook will contain keys findings (lists, tables, visualizations, …) from these points. I will also try to comment all these key findings
+
+<img src="https://github.com/Steve-Chemi/Trump-Tweets-analysis-Using-Spark-and-Python/blob/master/Trump_Tweets.png">
